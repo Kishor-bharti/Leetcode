@@ -10,10 +10,10 @@
 - [x] Find the second largest element ([link](https://www.geeksforgeeks.org/problems/second-largest3735/1))
 - [x] Remove duplicates from a sorted array ([link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
 - [ ] Move all zeros to the end ([link](https://leetcode.com/problems/move-zeroes/)) (need revision!)
-- [ ] Rotate an array by K positions ([link](https://leetcode.com/problems/rotate-array/))
-- [ ] Find the missing number (1…N) ([link](https://leetcode.com/problems/missing-number/))
-- [ ] Count frequency of elements ([link](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1))
-- [ ] Find the union of two sorted arrays ([link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1))
+- [x] Rotate an array by K positions ([link](https://leetcode.com/problems/rotate-array/)) (Struggle to solve!)
+- [x] Find the missing number (1…N) ([link](https://leetcode.com/problems/missing-number/))
+- [x] Count frequency of elements ([link](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1))
+- [ ] Find the union of two sorted arrays ([link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)) (struggle to solve!)
 
 ## 2️⃣ **Strings (Basic logic & patterns)**
 
