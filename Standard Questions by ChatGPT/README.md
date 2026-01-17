@@ -4,12 +4,12 @@
 
 ## 1️⃣ **Arrays (Must-do first)**
 
-- [ ] Find the largest and smallest element in an array ([link](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1))
-- [ ] Reverse an array ([link](https://www.geeksforgeeks.org/problems/reverse-an-array/1))
-- [ ] Check if an array is sorted ([GFG](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)) ([LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/))
-- [ ] Find the second largest element ([link](https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/))
-- [ ] Remove duplicates from a sorted array ([link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
-- [ ] Move all zeros to the end ([link](https://leetcode.com/problems/move-zeroes/))
+- [x] Find the largest and smallest element in an array ([link](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1))
+- [x] Reverse an array ([link](https://www.geeksforgeeks.org/problems/reverse-an-array/1))
+- [x] Check if an array is sorted ([GFG](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)) ([LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/))
+- [x] Find the second largest element ([link](https://www.geeksforgeeks.org/problems/second-largest3735/1))
+- [x] Remove duplicates from a sorted array ([link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
+- [ ] Move all zeros to the end ([link](https://leetcode.com/problems/move-zeroes/)) (need revision!)
 - [ ] Rotate an array by K positions ([link](https://leetcode.com/problems/rotate-array/))
 - [ ] Find the missing number (1…N) ([link](https://leetcode.com/problems/missing-number/))
 - [ ] Count frequency of elements ([link](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1))
