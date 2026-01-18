@@ -19,14 +19,14 @@
 
 - [x] Reverse a string ([link](https://leetcode.com/problems/reverse-string/))
 - [x] Check if a string is a palindrome ([link](https://leetcode.com/problems/valid-palindrome/)) (Time taken: 13 m 40 s, Need to practice!)
-- [ ] Count vowels and consonants ([link](https://www.geeksforgeeks.org/count-vowels-consonants-digits-special-characters-string/)) (link's not working, chatGPT solution! Need a revisit!)
+- [x] Count vowels and consonants ([link](https://www.geeksforgeeks.org/count-vowels-consonants-digits-special-characters-string/)) (link's not working, chatGPT solution! Need a revisit!)
 - [x] Find the first non-repeating character ([link](https://leetcode.com/problems/first-unique-character-in-a-string/)) (Was simple after getting the approach! Gotta revisit!)
 - [x] Check if two strings are anagrams ([link](https://leetcode.com/problems/valid-anagram/)) (only know the brute force!, need to optimize!)
 - [x] Convert string to lowercase / uppercase ([link](https://www.geeksforgeeks.org/cpp-program-to-convert-string-to-uppercase/))
 - [x] Remove spaces from a string ([link](https://www.geeksforgeeks.org/remove-spaces-from-a-given-string/)) (need to check code! Copy-pasted from GFG!)
 - [x] Replace All Digits with Characters ([link](https://leetcode.com/problems/replace-all-digits-with-characters/)) (I'm a Genius!)
-- [ ] Count words in a sentence ([link](https://www.geeksforgeeks.org/count-number-of-words-in-a-string/))
-- [ ] Find string length without using length() ([link](https://www.geeksforgeeks.org/find-length-of-string-without-using-strlen/))
+- [x] Count words in a sentence ([link](https://www.geeksforgeeks.org/count-number-of-words-in-a-string/)) (so easy that i've skipped!)
+- [x] Find string length without using length() ([link](https://www.geeksforgeeks.org/find-length-of-string-without-using-strlen/)) (so easy that i've skipped!)
 
 ## 3️⃣ **Recursion (Think in terms of function calls)**
 
