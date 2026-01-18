@@ -1,3 +1,4 @@
+// Check if an array is sorted 
 class Solution {
   public:
     bool isSorted(vector<int>& arr) {

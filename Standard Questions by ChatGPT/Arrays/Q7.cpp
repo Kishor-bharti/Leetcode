@@ -1,3 +1,4 @@
+// Rotate an array by K positions
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {

@@ -1,3 +1,4 @@
+//  Count frequency of elements
 class Solution {
   public:
     // Function to count the frequency of all elements from 1 to N in the array.

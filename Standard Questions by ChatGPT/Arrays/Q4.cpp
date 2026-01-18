@@ -1,3 +1,4 @@
+// Find the second largest element
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {

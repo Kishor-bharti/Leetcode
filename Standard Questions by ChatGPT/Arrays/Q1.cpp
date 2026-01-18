@@ -1,3 +1,4 @@
+// Find the largest and smallest element in an array
 class Solution {
   public:
     vector<int> getMinMax(vector<int> &arr) {
