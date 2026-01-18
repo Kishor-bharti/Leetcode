@@ -30,11 +30,11 @@
 
 ## 3️⃣ **Recursion (Think in terms of function calls)**
 
-- [ ] Print numbers from 1 to N ([link](https://www.geeksforgeeks.org/print-1-to-n-without-using-loops/))
-- [ ] Print numbers from N to 1 ([link](https://www.geeksforgeeks.org/print-n-to-1-without-using-loop/))
-- [ ] Find factorial of a number ([link](https://leetcode.com/problems/factorial-trailing-zeroes/))
-- [ ] Find sum of first N numbers ([link](https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/))
-- [ ] Find Fibonacci number ([link](https://leetcode.com/problems/fibonacci-number/))
+- [x] Print numbers from 1 to N ([link](https://www.geeksforgeeks.org/print-1-to-n-without-using-loops/))
+- [x] Print numbers from N to 1 ([link](https://www.geeksforgeeks.org/print-n-to-1-without-using-loop/))
+- [x] Find factorial of a number ([link](https://leetcode.com/problems/factorial-trailing-zeroes/)) (needs a revisit!)
+- [x] Find sum of first N numbers ([link](https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/))
+- [x] Find Fibonacci number ([link](https://leetcode.com/problems/fibonacci-number/)) (chatGPT copy-pasted!, TC definately needs to be improve!)
 - [ ] Check if a string is palindrome (recursive) ([link](https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/))
 - [ ] Find power (a^b) ([link](https://leetcode.com/problems/powx-n/))
 - [ ] Count digits of a number ([link](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/))
