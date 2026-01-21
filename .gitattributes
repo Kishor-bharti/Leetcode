@@ -1,0 +1,2 @@
+ProPeers/** filter=git-crypt diff=git-crypt
+ProPeers/README.md !filter !diff
