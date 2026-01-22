@@ -35,16 +35,16 @@
 - [x] Find factorial of a number ([link](https://leetcode.com/problems/factorial-trailing-zeroes/)) (needs a revisit!)
 - [x] Find sum of first N numbers ([link](https://www.geeksforgeeks.org/sum-of-first-n-natural-numbers/))
 - [x] Find Fibonacci number ([link](https://leetcode.com/problems/fibonacci-number/)) (chatGPT copy-pasted!, TC definately needs to be improve!)
-- [ ] Check if a string is palindrome (recursive) ([link](https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/))
-- [ ] Find power (a^b) ([link](https://leetcode.com/problems/powx-n/))
-- [ ] Count digits of a number ([link](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/))
-- [ ] Reverse a number ([link](https://leetcode.com/problems/reverse-integer/))
-- [ ] Check if array is sorted ([link](https://www.geeksforgeeks.org/check-if-array-is-sorted-or-not/))
+- [x] Check if a string is palindrome (recursive) ([link](https://www.geeksforgeeks.org/recursive-function-check-string-palindrome/)) (Repeat)
+- [ ] Find power (a^b) ([link](https://leetcode.com/problems/powx-n/)) (Most Hated Problem!)
+- [x] Count digits of a number ([link](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/)) (works well but not for negative numbers)
+- [ ] Reverse a number ([link](https://leetcode.com/problems/reverse-integer/)) (Later)
+- [x] Check if array is sorted ([link](https://www.geeksforgeeks.org/check-if-array-is-sorted-or-not/)) (Easy)
 
 ## 4️⃣ **Searching & Sorting (Very important)**
 
-- [ ] Linear Search ([link](https://www.geeksforgeeks.org/linear-search/))
-- [ ] Binary Search ([link](https://leetcode.com/problems/binary-search/))
+- [x] Linear Search ([link](https://www.geeksforgeeks.org/linear-search/)) (skipped)
+- [x] Binary Search ([link](https://leetcode.com/problems/binary-search/))
 - [ ] Find first and last occurrence ([link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))
 - [ ] Count occurrences in a sorted array ([link](https://www.geeksforgeeks.org/count-number-of-occurrences-in-a-sorted-array/))
 - [ ] Selection Sort ([link](https://www.geeksforgeeks.org/selection-sort/))
